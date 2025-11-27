@@ -205,7 +205,7 @@ Works on:
 Once Docker is installed on any OS, run:
 
 ```bash
-docker run -p 6080:80 --security-opt seccomp=unconfined --shm-size=512m ros2_llm_workshop:jazzy
+docker run -p 6080:80 --security-opt seccomp=unconfined --shm-size=512m runtimerobotics/ros2_llm_workshop:jazzy
 ```
 
 This starts:
