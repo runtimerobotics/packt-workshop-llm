@@ -87,7 +87,7 @@ No Docker installation is needed **inside WSL** — Docker Desktop handles every
 
 <p align="center">
   <a href="https://youtu.be/fsR8fj7iCNY" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.youtube.com/vi/fsR8fj7iCNY/hqdefault.jpg" alt="Workshop intro video" width="560" height="315"/>
+    <img src="https://img.youtube.com/vi/fsR8fj7iCNY/hqdefault.jpg" alt="Workshop intro video" width="640" height="480"/>
   </a>
 </p>
 
