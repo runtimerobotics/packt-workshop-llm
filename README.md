@@ -68,6 +68,28 @@ chmod +x setup_docker_ubuntu.sh
 sudo ./setup_docker_ubuntu.sh
 ```
 
+Manual installation of Docker on Ubuntu 24.04
+
+<p align="center">
+  <a href="https://youtu.be/FWWq83IGUgw" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/FWWq83IGUgw/hqdefault.jpg" alt="Additional workshop video" width="560" height="315"/>
+  </a>
+</p>
+
+Manual Installation of Docker on Ubuntu 22.04
+
+
+<p align="center">
+  <a href="https://youtu.be/EuSVD7kVCUY" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/EuSVD7kVCUY/hqdefault.jpg" alt="Workshop video" width="560" height="315"/>
+  </a>
+</p>
+
+
+
+
+
+
 ### **Verify**
 
 ```bash
@@ -156,6 +178,14 @@ Works on:
 
 * Intel Macs
 * Apple Silicon (M1/M2/M3) Macs
+
+
+<p align="center">
+  <a href="https://youtu.be/-EXlfSsP49A" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/-EXlfSsP49A/hqdefault.jpg" alt="Workshop video" width="560" height="315"/>
+  </a>
+</p>
+
 
 ### **Steps**
 
