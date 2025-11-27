@@ -85,7 +85,11 @@ On Windows, we use:
 
 No Docker installation is needed **inside WSL** — Docker Desktop handles everything.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fsR8fj7iCNY?si=BPt1g3ydV50AE9El" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p align="center">
+  <a href="https://youtu.be/fsR8fj7iCNY" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/fsR8fj7iCNY/hqdefault.jpg" alt="Workshop intro video" width="560" height="315"/>
+  </a>
+</p>
 
 
 ---
