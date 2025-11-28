@@ -208,6 +208,16 @@ Once Docker is installed on any OS, run:
 docker run -p 6080:80 --security-opt seccomp=unconfined --shm-size=512m runtimerobotics/ros2_llm_workshop:jazzy
 ```
 
+or
+
+If you want to add **CAMERA** support, use this
+
+```bash
+docker run -p 6080:80 --security-opt seccomp=unconfined --shm-size=512m --device=/dev/video0 runtimerobotics/ros2_llm_workshop:jazzy
+```
+
+
+
 This starts:
 
 * A full Ubuntu desktop inside the container
@@ -236,6 +246,14 @@ You will see a complete workspace with:
 All exercises will be performed inside this desktop.
 
 ---
+
+### For camera support
+
+Install following command in the container  to get camera driver support
+
+```
+python3 -m pip install "pydantic<2"
+```
 
 # **6. Stopping the Container**
 
