@@ -66,6 +66,14 @@ RUN apt-get update -q && \
     ros-${ROS_DISTRO}-moveit-planners \
     ros-${ROS_DISTRO}-moveit-plugins \
     ros-${ROS_DISTRO}-pcl-ros \
+    ros-${ROS_DISTRO}-ros2-control \
+    ros-${ROS_DISTRO}-ros2-controllers \
+    ros-${ROS_DISTRO}-controller-manager \
+    ros-${ROS_DISTRO}-gz-ros2-control \
+    ros-${ROS_DISTRO}-gz-ros2-control-demos \
+    ros-${ROS_DISTRO}-rqt-joint-trajectory-controller \
+    ros-${ROS_DISTRO}-gripper-controllers \    
+    ros-${ROS_DISTRO}-moveit-simple-controller-manager \    
     libpcl-dev && \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/*
