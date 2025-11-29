@@ -98,7 +98,7 @@ docker --version
 
 ---
 
-# **B. Windows 11 (WSL + Docker Desktop)**
+# **B. Windows 11/10 (WSL + Docker Desktop)**
 
 On Windows, we use:
 
